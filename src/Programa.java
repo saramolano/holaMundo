@@ -5,8 +5,10 @@ public class Programa {
 		// TODO Auto-generated method stub
 
 		//creo una variable
-		
 		String hola = "hola mundo";
+		
+		//imprimo por pantalla
+		System.out.println(hola);
 	}
 
 }
