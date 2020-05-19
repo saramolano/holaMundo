@@ -7,7 +7,11 @@ public class Programa {
 		//creo una variable
 		String hola = "hola mundo";
 		
-		//imprimo por pantalla
+		//creo una cuarta variable
+		
+		String sara = "persona";
+		
+		//imprimo por pantalla 
 		System.out.println(hola);
 	}
 
